@@ -1,0 +1,8 @@
+{
+  "name": "sedms-tv2-nodejs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SEDMS TV2: envelope encryption and two independent approvals",
+  "scripts": { "demo": "node demo.js", "test": "node --test test_tv2.js" },
+  "engines": { "node": ">=22" }
+}

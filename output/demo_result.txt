@@ -1,0 +1,9 @@
+TC-NORM-01: PASS - AES-256-GCM encryption/decryption; DEK wrapped by KEK
+SHA-256 original : 1d8f645b889bbb32119fc042147cd387ced3ac5c36f76d9411e077c051c2d261
+SHA-256 recovered: 1d8f645b889bbb32119fc042147cd387ced3ac5c36f76d9411e077c051c2d261
+Initial status: PENDING_APPROVAL
+Admin 1 signed: PENDING_SECOND_SIGNATURE (1/2)
+TC-SEC-03: PASS - publication/share gate BLOCKED: INSUFFICIENT_SIGNATURES (1/2)
+Admin 1 signs again: BLOCKED - DUPLICATE_APPROVER (still 1/2)
+TC-NORM-02: PASS - two verified signatures -> ISSUED (2/2)
+Evidence saved in output/. Demo keys exist in RAM for this run only.

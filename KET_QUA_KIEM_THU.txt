@@ -1,0 +1,18 @@
+✔ TC-NORM-01: exact roundtrip and randomized encryption (5.468938ms)
+✔ changed ciphertext, tag, nonce or wrapped DEK rejected (1.662244ms)
+✔ wrong KEK rejected (0.773355ms)
+✔ changed document ID, version or hash invalidates decryption and signature (2.389019ms)
+✔ TC-NORM-02: two independent signers issue document (1.642914ms)
+✔ TC-SEC-03: one compromised account and repeated approval cannot issue (1.491317ms)
+✔ wrong key or unauthorized signer rejected (0.827697ms)
+✔ two identities sharing a public key rejected (0.764872ms)
+✔ tampered signature rejected and caller cannot mutate stored signature (1.266498ms)
+✔ encrypted PKCS8 private key reload works; incorrect password fails (4.529374ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 152.658696

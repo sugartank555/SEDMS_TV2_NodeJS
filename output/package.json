@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "algorithm": "AES-256-GCM",
+    "docId": "DOC-001",
+    "schema": "SEDMS-TV2-NODE-v1",
+    "sha256": "1d8f645b889bbb32119fc042147cd387ced3ac5c36f76d9411e077c051c2d261",
+    "version": 1
+  },
+  "data": {
+    "nonce": "GxZ1oJ5WN+gSuVtt",
+    "ciphertext": "ZMyT2qOB68EUzLCgTsr364JX5t/2S5Z289nQjPidnTX01agpKBHSjrELdcacjErD5tzmFGRFJvrjszrHTqPDfx2wN+OJ2sG8bd5NDH50FSg5huB96azXXxyefM8BDIku1OWztOtTYHLSrHkged8GbWAeBtOQo95mbZkuhj9lCvK+PLTlLP4ylGCgHdBEcjIETnbe2SfCskY2dgM2C6TMkKctsfBvgvqh6UNyLK9wS7Iqi2qX+scUDQNeuRFFcgWm/gzEodZ9ljVECW+zFg+DWE7R/0vOt71qR5IoE3x5t+z3GOToQbbaib19UWuA4Ns7JrvVhs2qhgS/ftHRq6f26YILRQl8KcoV6uEESZDBCsrZfTv/YSC1BTChKJONDwmpRYtBHzV7LFyfLKssQWZsWPT6SsFE50Q0S4LYg4wJYx8YA9sp6DSDyIQlMI2L4x3Uiz8FMvdVhoPPpsWnhXlxqSRS2rYtxDNmuHULcr8GQ7zOWYVEM2HNAzJo0ElE/DolKb9CYHD5tjtPUNALL1p/EhFxrdmvXO72oIlLU6pmkZruOqUyaId1fmLlEPksla0TumiIrufLMeKziLarXwicNGE0IJPt3qQpO6UdH2q9ItNL0MfiB2fzc2XFJhnx7nKZxOd5ijssQt3je0YPzc8J37Vv1p+tcA99E1G/gjXNuNHnOlAQQI4CdIP//DBnbrSjqAtSp249Skz0zd1B0XhtQo/vxT03FqIDmLfR01DJ/+PHTHbgFWIV5HQfDVuv3hpcUmwlIbWSlF6Z/OSDxgv0yu4L+UiWNuQ=",
+    "tag": "iAgTUFKZxeBYOTsGZSD2+Q=="
+  },
+  "wrappedDek": {
+    "nonce": "H0rySI4/S0hr7Ayn",
+    "ciphertext": "ne+PDDX23+y8sI5xqjR2W2Gg1/L9zFykIYz0UG6uG+8=",
+    "tag": "4n/jouAuf7Wx+YVqKu0ExA=="
+  },
+  "cipherSha256": "27d73d31a5d2468065bb1d647b4731bb15fdeccc06cec4c7ea034a8f91bf4596"
+}
